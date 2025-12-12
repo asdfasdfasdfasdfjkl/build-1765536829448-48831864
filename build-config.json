@@ -1,0 +1,19 @@
+{
+  "website_address": "https://my.visionexcellencecenter.com",
+  "app_name": "Vision Excellence Center",
+  "version_code": "1",
+  "version_name": "1.0.0",
+  "name_space": "com.visionexcellencecenter",
+  "has_custom_icon": true,
+  "build_type": "release",
+  "platform": "android",
+  "permissions": {
+    "camera": "disabled",
+    "location": "disabled",
+    "microphone": "disabled",
+    "notifications": "disabled",
+    "contacts": "disabled"
+  },
+  "created_at": "2025-12-12T10:53:53.828Z",
+  "app_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAMFBMVEVMaXFIabL///8+Ya78/P3T1+mnstbs7fWPncped7rBxtwOGSl2i8SDhpdgZn9ASF8c/m8DAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAuIwAALiMBeKU/dgAAA6pJREFUeNrtlV1MHFUYhp89u9BVmgYT29TSLqdTxKaNBdc2vZAYFEmxJnQFqptUCGpSTRpsJfEnaaoIRROCpsGbmia4MaShUZBQY9AmZsXgH7XZVOtPt4yHJSDUXmy4cd26p17MzMJeeOndea5mvvOdd973OzMZMBgMBoPBYDAYDAbDf+E7DKwdA3aXElCb4UZCcHJrQ3Bk9jgtaXfRQWj3oiWN7wIEa8D31TE4GlOI94/hL1mGKpXq7bPBKm48c5+C8rRydkkli2akDcg7FEXX4fY1EHjHRkiF8DVCcTiBqKKizwZscmgbyr3npw6ODp1z7GgbcUAptEIkJbpZoP0ScaQagAdsZ8fThWnDu/b1B4cs907/mnJiZYFtIB9V6AQAi6OAJRF/ytX7A+t6MonGhV1e8RfnSvjaYbYRlmFn2tEGtr93Wrh6HrvjbfHn+o7PKW+i9SkAUbYM2Wo5Xw3aWXscxGMvv1ZfUiAg9geuRTOJbrvLtaA/aAQQXAJkyj8IrW6vAlslvz9UYMB/6cGpTYM73t4X9yxcbQIQKinRzQgQ0/nM+vOGMB8WjCA38U/TxaKpmmGVb+oEEEID2/TdCu2MgPMS/vpu6vmIWi2gI5Ot8SfPjwfb87ozXYDQ2WdgNhKGey6r/BC1nTlXESnIkAv0F73e7v+kfsVChwJBKAHZ8DoQbn1jGAD7xMECC9Nd8eiV0N6hL3rzpQwgUBsAK4bo8970b7olgH5p1RCEnP+do02Lb8V++FoUnA58LNHNCga9/o1/nBYSuFK60ibG/dMlt+mTHT1jWwEInvIERE5BBopLPcdquK0uKkGsCLBGb0mHDwX3/hT173Ds/yZdAZ0bB6B83GuOypsXz7wKFJxjklcSLR21+9+scaJmwl4E6Tx5Jt+61LIHHZOweohTYu4j+dSPNzaUjrq6S9IVUD9LQIx4MxTtJybPHm5QUOsWesFXHBKTi9/eWtt2q9vVTQ4ABECMlAAo1wkLL+jsETRUOh+DKN5p6btIhWwxfOFa4N2Q21f2qSug/QqojHmGrXm0DeAbq3I+AzTVtaSid3bEWX/Zc5qacyNQ1gnkUl7aIk9ouxv25sL6PXOdn00/dG88sDkScopB9JYBxwEkLJgtAbCAv0912oA10CqFBejs/X7AtqHu7LNSAcJCQ6rHAp8FVDwMV+NAZS1sis2/sdRF8MUJ1BOlcH2M4JcJgLr+CWXZAG5dPCLNf81gMBgMBoPBYDAY/k/+BRgLSVU6OS5WAAAAAElFTkSuQmCC"
+}
